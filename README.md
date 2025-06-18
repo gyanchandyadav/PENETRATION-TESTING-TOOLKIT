@@ -29,3 +29,5 @@ Directory Brute Forcer: Performs a directory brute-force attack on a given URL u
 Banner Grabber: Connects to a service running on a specific port and extracts the service banner. This is useful for identifying software versions and detecting potential vulnerabilities.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9a33861a-9ce0-4ef5-8606-9b1235f62e55)
